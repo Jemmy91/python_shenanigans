@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 # Let's make this interactive so it can be used again and again. 
 
 # This will allow me to calculate how much people owe me
