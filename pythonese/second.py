@@ -48,4 +48,6 @@ class Employee(Person):
 
 employee_one = Employee("spencer", "blonde", "5-9", "a123")
 employee_one.print_employee_id()
-
+employee_one.print_hair_color()
+employee_one.print_height()
+employee_one.print_name()
