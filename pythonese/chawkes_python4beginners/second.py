@@ -24,8 +24,8 @@ class Person:
 		self.hair_color = hair_color
 		self.height = height
 
-	def print_name(self, another_value):
-		print(self.name + another_value)
+	def print_name(self):
+		print(self.name)
 
 	def print_height(self):
 		print(self.hair_color)
